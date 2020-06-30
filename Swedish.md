@@ -1,4 +1,4 @@
-# WAX Protocol White Paper Value Proposition - Swedish
+# WAX Protocol White Paper Value Proposition - Swedish Translation
 
 
 > **August 30, 2019**
@@ -21,293 +21,259 @@ If you see any mistakes in the translation or the text, please create a pull req
 
 - [Värdeproposition för WAX blockkedja](#solution-the-value-proposition-of-wax)
 - [Vad är W.A.S.P. strategin](#what-is-the-wasp-strategy)
-- [How the WAX Platform Works](#how-the-wax-platform-works)
-  - [WAX Protocol Blockchain](#wax-protocol-blockchain)
-    - [Consensus Model](#consensus-model)
-    - [WAX Token Model](#wax-token-model)
-      - [WAX Staking Rewards](#wax-staking-rewards)
-      - [What functions can I perform by staking my WAX?](#what-functions-can-i-perform-by-staking-my-wax)
-      - [How do I earn WAX Staking Rewards by staking my WAX Tokens?](#how-do-i-earn-wax-staking-rewards-by-staking-my-wax-tokens)
-      - [WAX Guilds and WAX Guild Rewards](#wax-guilds-and-wax-guild-rewards)
-    - [WAX Core Performance Metrics](#wax-core-performance-metrics)
-    - [Delegated Proof of Stake (DPoS)](#delegated-proof-of-stake-dpos)
-    - [Byzantine Fault Tolerance](#byzantine-fault-tolerance)
-    - [Guilds, Block Producers, Staking, and Voting - Enhanced Governance Features](#guilds-block-producers-staking-and-voting---enhanced-governance-features)
+- [Hur fungerar WAX-plattformen?](#how-the-wax-platform-works)
+  - [WAX-protokollblockkedja](#wax-protocol-blockchain)
+    - [Konsensusmodell](#consensus-model)
+    - [WAX Token modell](#wax-token-model)
+      - [WAX  Insatsbelöningar](#wax-staking-rewards)
+      - [Vilka funktioner kan jag utföra genom att satsa min WAX?](#what-functions-can-i-perform-by-staking-my-wax)
+      - [Hur tjänar jag belöningar för WAX-insatser genom att satsa mina WAX-tokens?](#how-do-i-earn-wax-staking-rewards-by-staking-my-wax-tokens)
+      - [WAX Guilds och WAX Guild Belöningar](#wax-guilds-and-wax-guild-rewards)
+    - [WAX Kärna Prestanda Metrik](#wax-core-performance-metrics)
+    - [Delegerad Proof of Stake (DPoS)](#delegated-proof-of-stake-dpos)
+    - [Bysantisk feltolerans](#byzantine-fault-tolerance)
+    - [Guilds, blockproducenter, satsning och röstning - förbättrade funktioner för styrning](#guilds-block-producers-staking-and-voting---enhanced-governance-features)
       - [WAX Guilds](#wax-guilds)
       - [Standby Guilds](#standby-guilds)
-      - [WAX Staking Rewards as a Solution for Voter Apathy](#wax-staking-rewards-as-a-solution-for-voter-apathy)
-      - [WAX Staking Rewards](#wax-staking-rewards-1)
-      - [Staking Rewards are Based on Performance / Penalties for Underperformance](#staking-rewards-are-based-on-performance--penalties-for-underperformance)
-    - [Genesis Block Member Rewards](#genesis-block-member-rewards)
+      - [WAX Insatsbelöningar som en lösning för väljarapati](#wax-staking-rewards-as-a-solution-for-voter-apathy)
+      - [WAX Insatsbelöningar](#wax-staking-rewards-1)
+      - [Insatsbelöningar är baserat på prestanda / påföljder för underprestanda](#staking-rewards-are-based-on-performance--penalties-for-underperformance)
+    - [Genesis Block-medlemsbelöningar](#genesis-block-member-rewards)
     - [Deflation / Inflation](#deflation--inflation)
-    - [Transactions](#transactions)
+    - [Transaktioner](#transactions)
       - [Providing Cost Efficiency in Terms of Fee Elimination](#providing-cost-efficiency-in-terms-of-fee-elimination)
-    - [Smart Contracts + RNG](#smart-contracts--rng)
-      - [WAX Random Number Generator (RNG) Smart Contract](#wax-random-number-generator-rng-smart-contract)
-      - [How WAX RNG Native Blockchain Service Solves Important Problems](#how-wax-rng-native-blockchain-service-solves-important-problems)
-  - [NFT Standards / NFT Integration with WAX ExpressTrade](#nft-standards--nft-integration-with-wax-expresstrade)
-  - [Worker Proposal System](#worker-proposal-system)
-    - [Why do we need the WWPS?](#why-do-we-need-the-wwps)
-    - [Proposed WWPS Categories](#proposed-wwps-categories)
-  - [NET, CPU, and RAM Resources on the WAX Blockchain](#net-cpu-and-ram-resources-on-the-wax-blockchain)
-  - [Microservice Layer](#microservice-layer)
-    - [WAX All Access](#wax-all-access)
-    - [WAX Account (soon WAX Wallet)](#wax-account-soon-wax-wallet)
-    - [WAX NFT Creator](#wax-nft-creator)
-    - [WAX ExpressTrade](#wax-expresstrade)
-    - [WAX Explorer](#wax-explorer)
-    - [WAX Marketplace](#wax-marketplace)
-- [WAX Technical Documentation](#wax-technical-documentation)
-- [WAX Projects Showcase](#wax-projects-showcase)
-  - [Marketplaces](#marketplaces)
-    - [OPSkins](#opskins)
-    - [WAXPeer](#waxpeer)
-    - [WAXTrades](#waxtrades)
-    - [dCart](#dcart)
-    - [ByNoGame](#bynogame)
-  - [Collectibles](#collectibles)
-    - [vIRL](#virl)
-    - [VGO](#vgo)
-    - [Fnatic](#fnatic)
-    - [Augmented Reality](#augmented-reality)
-    - [Terra Virtua](#terra-virtua)
-  - [E-commerce](#e-commerce)
-    - [Fan Controlled Football League (FCFL)](#fan-controlled-football-league-fcfl)
-  - [Games](#games)
-    - [Z1BR](#z1br)
-    - [The Godfather Game](#the-godfather-game)
-    - [Animoca Brands](#animoca-brands)
-    - [Santeria](#santeria)
-    - [WAX.Wiki](#waxwiki)
-- [WAX Roadmap](#wax-roadmap)
-  - [WAX Developer Hive](#wax-developer-hive)
-  - [Office of the Inspector General](#office-of-the-inspector-general)
-  - [Ethereum Microservice](#ethereum-microservice)
-  - [Public WAX Testnet](#public-wax-testnet)
+    - [Smarta kontrakt + RNG](#smart-contracts--rng)
+      - [WAX Slumptalsgenerator smarta kontrakt - Random Number Generator (RNG)](#wax-random-number-generator-rng-smart-contract)
+      - [Hur WAX RNG naturliga blockkedje-tjänst löser viktiga problem](#how-wax-rng-native-blockchain-service-solves-important-problems)
+  - [NFT Standarder / NFT Integrering med WAX ExpressTrade](#nft-standards--nft-integration-with-wax-expresstrade)
+  - [Arbetarförslagssystem (Worker Proposal System)](#worker-proposal-system)
+    - [Varför behöver vi WWPS?](#why-do-we-need-the-wwps)
+    - [Föreslagit WWPS-kategorier](#proposed-wwps-categories)
+
 
 <!-- /TOC -->
 
 
-# Solution: The Value Proposition of WAX 
-The WAX Platform solves a problem for businesses and entrepreneurs who want to make money and participate in the rapidly growing global digital goods market. The global digital goods market continues to expand because people's time and attention continue to go towards online forms of entertainment, such as video games, social media, movies, music, and digital books. Also, another 3+ billion people are expected to come online to the internet in the next five years.
+# Värdeproposition för WAX blockkedja 
+WAX-plattformen löser ett problem för företag och entreprenör som vill tjäna pengar och delta i den snabbt växande globala marknaden för digitala varor. Den globala marknaden för digitala varor fortsätter att expandera eftersom människors tid och uppmärksamhet fortsätter att gå till online-former av underhållning, som videospel, sociala medier, filmer, musik och digitala böcker. Dessutom förväntas över miljarder människor få tillgång till internet under de kommande fem åren.
 
 
 # What is the W.A.S.P. Strategy
-On the WAX Platform, the **W.A.S.P.** Strategy captures the power a dApp can access and quickly build to reach existing WAX customers while also making new ones. The WAX Platform consists of:
+WAX blockkedja använder **W.A.S.P.** strategin för att göra det möjligt för decentraliserade applikationer (dApps) att bygga och växa snabbt. **W.A.S.P.** strategin består av:
 
-**W**AX Blockchain +
+**W**AX blockkedja +
 
-decentralized marketplace (similar to **A**mazon) +
+decentraliserad marknadsplats (liknande **A**mazon) +
 
-decentralized virtual item trading and generation (similar to **S**team) +
+decentraliserad handel och produktion av digital varor (liknande **S**team) +
 
-decentralized wallets (similar to **P**ayPal)
+decentraliserad konto (liknande **P**ayPal)
 
-The WAX Blockchain provides a token-based economy that operates on resources provided by the consumers of those resources. In that way, the ecosystem pays for itself, and the participants guide its development and benefit directly from its growth.
+WAX blockkedja erbjuder en token-baserad ekonomi som arbetar med nätverksresurser, leverantörer och konsumenterna av dessa resurser. På detta sätt betalar ekosystemet sig självt, och deltagarna styr dess utveckling och drar fördel direkt av dess tillväxt.
 
-The WAX microservice layer delivers on all the functions that a well-designed marketplace needs to grow and scale without a massive investment in infrastructure.
+WAX microservice-skikt levererar alla funktioner som krävs av en marknadsplats för att skala och växa utan massiva investeringar i infrastruktur och utveckling.
 
-We describe the entire WAX Platform, i.e., WAX Protocol Blockchain functions and the microservice layer in the next section.
+Vi beskriver hela WAX-plattformen, WAX-protokoll, blockkedje-funktioner och microservice-skiktet i nästa avsnitt.
 
 
-# How the WAX Platform Works
-With the combination of the WAX Protocol Blockchain and the microservices layer, the WAX Platform provides customers with a full suite of blockchain-based tools. WAX Platform is safe and convenient for creating, buying, selling, and trading virtual items to anyone, anywhere.
+# Hur fungerar WAX-plattformen?
+Med kombinationen av WAX-protokollblockkedja och microservice-skiktet ger WAX-plattformen kunderna en komplett svit blockkedjebaserade verktyg. WAX-plattformen är säker och bekväm för att skapa, köpa, sälja och handla virtuella varor till vem som helst, var som helst.
 
 
 <a id="markdown-wax-protocol-blockchain" name="wax-protocol-blockchain"></a>
 
-## WAX Protocol Blockchain 
+## WAX protokollblockkedja 
 
 
 <a id="markdown-consensus-model" name="consensus-model"></a>
 
-### Consensus Model
-WAX uses a [Delegated Proof of Stake (DPoS)](#delegated-proof-of-stake-dpos) consensus algorithm which relies upon a group of WAX Guilds (also known as block producers) to manage block production.
+### Konsensusmodell
+WAX använder en delegerad Proof of Stake (DPoS) konsensusalgoritm som förlitar sig på en grupp av WAX-guilder (även kända som blockproducenter) för att hantera blockproduktion.  
 
 
 <a id="markdown-wax-token-model" name="wax-token-model"></a>
 
-### WAX Token Model 
-The WAX Token model is designed to drive several activities to grow the WAX ecosystem: staking, rewards, and voting.
+### WAX Token modell 
+WAX Token-modellen är utformad för att driva flera aktiviteter till att utöka WAX-ekosystemet: insatser, belöningar och röstning.
 
 
 <a id="markdown-wax-staking-rewards" name="wax-staking-rewards"></a>
 
-#### WAX Staking Rewards
+#### WAX  insatsbelöningar
 WAX Staking Rewards is the voting and rewards system we designed to increase community participation in the selection of guilds and blockchain improvement proposals. Here is what token holders can do with their WAX Tokens:
 
-1.  **Stake WAX Tokens.** If token holders have unstaked WAX Tokens, they need to stake them using a Lynx, Sqrl, Scatter or another compatible wallet. [Genesis WAX Protocol Tokens](https://wax.io/blog/introducing-the-genesis-block-member-program-join-and-receive-daily-token-rewards-for-3-years) are automatically staked.
+1.  **Satsade WAX Tokens** Om tokenägare har icke-satsade WAX-tokens måste de satsa dem med en Lynx, Sqrl, Scatter eller en annan kompatibel wallet. Genesis WAX-protokolltoken är automatiskt satsade.  
 
-2.  **Vote via a compatible wallet.** If token holders have Genesis WAX Protocol Tokens in a WAX Blockchain account, they must connect their compatible wallet to the account to vote. All WAX Token holders can vote for up to 30 WAX Guilds. The strength of their vote for any particular guild depends on the number of WAX Tokens they stake.
+2.  **Rösta via en kompatibel wallet.** Om tokenägare har Genesis WAX-protokolltokens i ett WAX Blockkedja-konto, måste de ansluta sin kompatibla wallet till kontot för att rösta. Alla ägare av WAX-tokens kan rösta på upp till 30 WAX-guilder. Styrkan i deras röst för varje guild beror på antalet WAX-tokens de insats. 
 
-3.  **Earn WAX Staking Rewards.** WAX Token holders who stake their tokens and then vote with them earn additional WAX Tokens. These earnings are called WAX Staking Rewards and are issued directly from the WAX Blockchain.
+3.  **Tjäna WAX insatsbelöningar.** WAX tokenägare som satsat sina tokens och sedan röstar med dem tjänar ytterligare WAX-tokens. Dessa intäkter kallas WAX insatsbelöningar (WAX Staking Rewards) och ges ut direkt från WAX-blockkedjan.
 
-dApp developers also benefit from staking their WAX Tokens because it helps reserve system resources (CPU and Network). RAM allocation can be purchased and sold to meet the needs of the developer. The staking mechanism and WAX Staking Rewards combination make no-fee transactions possible. We don't charge dApp developers for running the infrastructure that enables the processing of transactions due to Guild Rewards. So by staking tokens, dApp developers claim the RAM allocation necessary. It also prevents network spam from locking out legitimate transactions because everyone is rate-limited, and based on their allocation.
+dApp-utvecklare kan också dra nytta av att satsa sina WAX-tokens eftersom det hjälper till att reservera systemresurser (CPU och nätverk). RAM-allokering kan köpas och säljas för att möta utvecklarens behov. Insatsmekanismen och WAX insatsbelönings-kombinationen möjliggör transaktioner utan avgift. Vi debiterar inte dApp-utvecklare för att köra infrastrukturen som möjliggör bearbetning av transaktioner på grund av Guild Rewards. Så genom att satsa tokens, kan dApp utvecklare allokera nödvändigt RAM. Det förhindrar också nätverksskräp från att låsa ut legitima transaktioner eftersom alla är hastighetsbegränsade och baserade på deras tilldelning.
 
 
 <a id="markdown-what-functions-can-i-perform-by-staking-my-wax" name="what-functions-can-i-perform-by-staking-my-wax"></a>
 
-#### What functions can I perform by staking my WAX?
-Staking WAX Tokens allows token holders to vote on the WAX Blockchain, and earn WAX Staking Rewards for doing so. Token holders must vote weekly to maintain the strongest vote strength and earn maximum rewards (find more details on vote strength in the next section). There are three types of voting on WAX:
+#### Vilka funktioner kan jag utföra genom att satsa min WAX?
+WAX tokenägare som satsat sina tokens kan rösta på WAX-blockkedjan och tjäna WAX insatsbelöningar för att göra det. Tokenägare måste rösta varje vecka för att bibehålla den starkaste röststyrkan och tjäna maximala belöningar (hitta mer information om röststyrkan i nästa avsnitt). Det finns tre typer av omröstningar om WAX:
 
--   **Guild voting:** Stake a fixed amount of WAX Tokens to vote for guilds. For example, if staking 1,000 WAX Tokens, token holders may assign 1,000 votes each for up to 30 different guild candidates.
+-   **Guildröstning:** Satsa ett fast belopp av WAX-tokens att rösta för guilder. Till exempel, om du satsar 1000 WAX-tokens, kan tokenägare tilldela 1000 röster vardera för upp till 30 olika guildkandidater.
 
--   **Proxy voting:** Designate a proxy, who then votes on token holders’ behalf using their staked WAX, which earns them WAX Staking Rewards. If a proxy does not vote, it does not affect the token holder’s vote strength. However, they need to keep their proxied vote updated to retain full voting strength similar to guild voting.
+-   **Proxy-omröstning:** Ange en fullmakt, som sedan röstar på uppdrag av tokenägare med deras satsade WAX, som ger dem WAX insatsbelöningar. Om en fullmakt inte röstar påverkar det inte tokenägarnas röststyrka. De måste däremot hålla sina röster uppdaterade för att behålla full röststyrka som liknar Guild röstning.
 
--   **Worker Proposal voting (post-mainnet launch):** Stake WAX Tokens to vote for proposals that are put forth by other WAX Token holders.
+-   **Arbetarförslagets röstning (lansering efter mainnet):** Insats av WAX-tokens för att rösta för förslag som läggs fram av andra WAX token ägare.
 
 
 <a id="markdown-how-do-i-earn-wax-staking-rewards-by-staking-my-wax-tokens" name="how-do-i-earn-wax-staking-rewards-by-staking-my-wax-tokens"></a>
 
-#### How do I earn WAX Staking Rewards by staking my WAX Tokens?
-Token holders can earn more WAX Tokens every day with WAX Staking Rewards just by voting. Each day, a set number of WAX Tokens get set aside for WAX Staking Rewards. The number of tokens each WAX Token holder receives daily depends on their stake weight, relative to other stakers. For example, if a token holder’s stake weight amounts to 0.5% of the aggregate stake weight on any given day, they receive 0.5% of the WAX Staking Rewards amount. The voter's current stake weight determines the amount of WAX Staking Rewards given to them.
+#### Hur tjänar jag belöningar för WAX-insatser genom att satsa mina WAX-tokens?
+Tokenägare kan tjäna fler WAX tokens varje dag med WAX insatsbelöningar bara genom att rösta. Varje dag avsätts ett fast antal WAX-tokens för WAX insatsbelöningar. Antalet tokens som varje WAX-token ägare får dagligen beror på deras insatsvikt, i förhållande till andra ägare. Om till exempel en tokenägares insatsvikt är 0,5% av den sammanlagda insatsvikten på en dag, får de 0,5% av WAX insatsbelöningar-beloppet. Väljarens aktuella insatsvikt bestämmer mängden WAX-insatsbelöningar som de kan tjäna.
 
 ![Voter's stake weight determines the amount of WAX Staking Rewards given to them](media/voters-stake-weight-calculation.png)
 
--   **Stake weight** is the number of WAX Tokens currently staked multiplied by vote strength.
+-   **Insatsvikt** är antalet WAX-tokens som för närvarande satsade multiplicerat med röststyrka.
 
--   **Vote strength** is a number between 0 and 1, for example, 0.08 or 0.25, with 1 being full strength. If a token holder votes weekly, then they maintain the highest possible vote strength. If they don’t vote weekly, their vote strength decays. Stake weight starts at and remains at 0 until they vote, at which point it increases to 1.
+-   **Röststyrka** är ett tal mellan 0 och 1, till exempel 0,08 eller 0,25, där 1 är full styrka. Om en token ägare röstar varje vecka, behåller de högsta möjliga röststyrka. Om de inte röstar varje vecka minskar deras röststyrka. Insatsvikten börjar på och återstår på 0 tills de röstar, då det ökar till 1.
 
-For example, if a token holder votes in any given week, their vote strength is then 1. If they do not vote again, then their vote strength decays until it reaches zero. They can increase it back to 1 just by voting.
+Till exempel, om en token ägare röstar i en viss vecka, är deras röststyrka då 1. Om de inte röstar igen, då deras röststyrka förfaller tills den når noll. De kan öka den tillbaka till 1 bara genom att rösta.
 
 ![Voter strength](media/voter-strength.png)
 
-Therefore, voting maximizes WAX Staking Rewards. Additionally, token holders contribute to the selection of quality guilds and proposals - supporting the overall health of the WAX Blockchain. We plan to introduce additional types of WAX Staking Rewards in the future.
+Därför maximerar röstningen WAX insatsbelöningar. Dessutom bidrar tokenägare till urvalet av kvalitetguilds och förslag - som stödjer WAX-blockkedjans hälsa.
 
 
 <a id="markdown-wax-guilds-and-wax-guild-rewards" name="wax-guilds-and-wax-guild-rewards"></a>
 
-#### WAX Guilds and WAX Guild Rewards
-The WAX Blockchain has 21 WAX Guilds who earn rewards for producing blocks. These WAX Guild Rewards are granted based on the number of blocks produced by each WAX Guild. Standby Guilds, or reserve guilds, operate as "backup operators" that earn a share of WAX Guild Rewards for participating and demonstrating their ability to process a block when randomly requested.
+#### WAX Guilds och WAX Guild Belöningar
+WAX-blockkedjan har 21 WAX-guilder som tjänar belöningar för att producera block. Dessa WAX Guild-belöningar beviljas baserat på antalet block som produceras av varje WAX Guild. Standby Guilds, eller reservera guilder, fungerar som "backupoperatörer" som tjänar en del av WAX Guild-belöningar för att delta och visa sin förmåga att bearbeta ett block när slumpmässigt begärs.
 
 
 <a id="markdown-wax-core-performance-metrics" name="wax-core-performance-metrics"></a>
 
-### WAX Core Performance Metrics 
-WAX produces a block precisely every 0.5 seconds, and one WAX Guild is authorized to produce a block at a time. If a block does not get produced at the scheduled time, the block for that time slot gets skipped. The transactions remain in the memory pool waiting for the next guild to include them. Similar blockchains have achieved 3,000 transactions per second, which exceed the average transactions per second that Visa processed by nearly 2x. WAX is capable of the same speed and as such, WAX is one of the fastest, potentially highest-throughput blockchains on the market.
+### WAX Kärna Prestanda Metrik 
+WAX-blockkedjan producerar ett block exakt var 0,5 sekund, och en WAX Guild är behörig att producera ett block i taget. Om ett block inte produceras vid den schemalagda tiden hoppas blocket för den tidsrymden över. Transaktionerna kvar i minnespoolen väntar på nästa guild att inkludera dem. Liknande blockkedjor har uppnått 3000 transaktioner per sekund, vilket överstiger de genomsnittliga transaktioner per sekund som Visa behandlar med nästan 2x. WAX kan uppnå samma hastighet och som sådan är WAX en av de snabbaste, potentiellt högsta kapaciteten blockkedjor på marknaden.
 
 
 <a id="markdown-delegated-proof-of-stake-dpos" name="delegated-proof-of-stake-dpos"></a>
 
-### Delegated Proof of Stake (DPoS)
-WAX utilizes the DPoS decentralized consensus algorithm to optimize the performance of applications on the blockchain. DPoS also optimizes the nominal condition of 100% participation of honest nodes with robust network connections. Incentives for WAX Guilds help keep them honest, which results in the trustworthiness of the network. Otherwise, the WAX Guild risks losing its position in the network and missing out on earning WAX Guild Rewards. 
+### Delegerad Proof of Stake (DPoS)
+WAX använder DPoS decentraliserade konsensusalgoritm för att optimera prestanda för applikationer på blockkedja. DPoS optimerar också det nominella villkoret för 100% deltagande av ärliga noder med robusta nätverksanslutningar. Incitament för WAX Guilds hjälpa till att hålla dem ärliga, vilket resulterar i trovärdighet i nätverket. Annars riskerar WAX Guild att förlora sin position i nätverket och gå miste om att tjäna WAX Guild-belöningar. 
 
-DPoS is secure in the face of the corruption of a significant minority of producers. Token holders may select WAX Guilds through a continuous approval voting system. To get an opportunity to produce blocks, token holders can persuade other token holders to vote for them.
+DPoS är säkert inför korruptionen hos en betydande minoritet av producenterna. Token-ägare kan välja WAX Guilds genom ett kontinuerligt godkännande röstningssystem. För att få möjlighet att producera blocks kan tokenägare övertala andra tokenägare att rösta på dem.
 
-Every 0.5 seconds, blocks get produced on the WAX Blockchain, and one WAX Guild gets authorized to produce a block at any given point in time. If a block does not get produced at the scheduled time, the block for that time slot gets skipped. When one or more blocks get skipped, there is a 0.5 or more second gap in the blockchain. To decentivize skipping blocks, WAX Guilds don’t receive their WAX Guild Rewards if they produce 50% or less of their scheduled blocks.
+Var 0,5 sekund produceras block på WAX-blockkedjan, och en WAX Guild får tillstånd att producera ett block vid en viss tidpunkt. Om ett block inte produceras vid den schemalagda tiden hoppas block för den tidsrymden över. När ett eller flera block hoppas över, det finns en 0,5 eller mer andra lucka i blockkedja. För att motarbeta överhoppade block, får inte Wax Guilds sina WAX Guild-belöningar om de producerar 50% eller mindre av sina schemalagda block.
 
 
 <a id="markdown-byzantine-fault-tolerance" name="byzantine-fault-tolerance"></a>
 
-### Byzantine Fault Tolerance
-[Byzantine Fault Tolerance (BFT)](https://en.wikipedia.org/wiki/Byzantine_fault) is achieved by a rule that strongly discourages WAX Guilds from signing two blocks at the same block height or timestamp. Since a central authority does not control blockchains, the absence of BFT poses a risk of a peer transmitting and posting false transaction, nullifying the blockchain's reliability. Bottom line, BFTs guard against catastrophic failures and mitigate against the influence of these malicious nodes.
+### Bysantisk feltolerans
+[Bysantinsk feltolerans (BFT)](https://en.wikipedia.org/wiki/Byzantine_fault) uppnås genom en regel som starkt avskräcker WAX Guilds från att signera två block på samma blockhöjd eller tidsstämpel. Eftersom en central myndighet inte kontrollerar blockkedjor utgör frånvaron av BFT en risk för att en peer-överföring och publicerar falska transaktioner, vilket upphäver blockkedjans tillförlitlighet. I första hand, skyddar BFTs mot katastrofala fel och mildrar påverkan av dessa skadliga noder.
 
-Any WAX Guild signing two blocks at the same block height or timestamp is likely voted out by the WAX Token holders. Fifteen guilds signing a block makes a block permanent and immutable.
+Alla WAX Guild-signering av två block på samma block höjd eller tidsstämpel kommer sannolikt röstas ut av WAX Token-ägare. Femton guilds som signerar ett block gör ett block permanent och oföränderligt.
 
 
 <a id="markdown-guilds-block-producers-staking-and-voting---enhanced-governance-features" name="guilds-block-producers-staking-and-voting---enhanced-governance-features"></a>
 
-### Guilds, Block Producers, Staking, and Voting - Enhanced Governance Features
+### Guilds, blockproducenter, satsning och röstning - förbättrade funktioner för styrning
 
 
 <a id="markdown-wax-guilds" name="wax-guilds"></a>
 
 #### WAX Guilds
-The WAX Blockchain has 21 WAX Guilds at any given time, with one guild being selected to produce a block at a scheduled time. The 21 WAX Guilds are chosen to produce blocks in rounds of 126, based on six blocks for each of the 21 WAX Guilds. WAX Token holders vote for WAX Guilds to determine which qualified guilds become a part of the top 21. Those who vote for WAX Guilds that miss blocks are incentivized to vote these producers out since missed blocks result in a missed monetary opportunity for their voting constituents.
+WAX Blockkedja har 21 WAX-guilder vid en viss tidpunkt, varvid ett guild väljs för att producera ett block vid en schemalagd tid. De 21 WAX Guilds väljs för att producera block i omgångar av 126, baserat på sex block för var och en av dessa 21 WAX Guilds. WAX Token-ägare rösta på WAX Guilds för att avgöra vilka kvalificerade guilds som blir en del av topp 21. De som röstar på WAX Guilds som missar block är motiverade att rösta ut dessa producenter ut eftersom missade block resulterar i missade belöningar.
 
 
 
 <a id="markdown-standby-guilds" name="standby-guilds"></a>
 
 #### Standby Guilds
-Standby guilds are critical to ensuring a robust network with maximum block production capacity. WAX allocates 1% of all blocks to be produced by standby guilds. These blocks get allocated in a pseudorandom manner to the standby guilds. Unlike EOS, where anyone can represent themselves as a standby block producer, WAX takes a different approach. In the WAX ecosystem, standby guilds are compelled to maintain 24/7 uptime since they cannot predict when they are assigned to produce a block. It also allows for voting on standby guild members.
+Standby guilds är avgörande för att säkerställa ett robust nätverk med maximal block-produktionskapacitet. WAX fördelar 1% av alla block som skall produceras av standby guilds. Dessa block får tilldelas på ett pseudorandom sätt till standby guilds. Till skillnad från EOS, där vem som helst kan representera sig själva som en standby block-producent, har WAX en annan strategi. I WAX ekosystem, är standby guilds  tvungna att upprätthålla 24/7 upptid eftersom de inte kan förutsäga när de är tilldelade att producera ett block. Det gör det också möjligt att rösta på standby guild-medlemmar.
 
-We also recognized that EOS doesn't have a mechanism to determine if all producers qualify to produce blocks. For example, if a lower quality standby producer gets voted in, this producer may be unable to produce its assigned blocks, resulting in lower performance. This standby producer would still get paid a share of the block reward. EOS block producers and standby producers share 0.75% inflation based on the number of votes they receive. It's likely to give incentive for lower quality producers to promote themselves as a producer without having sufficient block producing capabilities.
+Det kände vi igen att EOS inte har någon mekanism för att avgöra om alla producenter kvalificerar sig för att producera block. Om till exempel en reservproducent av lägre kvalitet röstas in kanske den här tillverkaren inte kan producera sina tilldelade blocks, vilket resulterar i lägre prestanda. Denna standby producent skulle fortfarande få en del av blockbelöningen. EOS blockproducenter och standby-producenter delar 0.75% inflation baserat på antalet röster de får. Det är sannolikt att ge incitament för lägre kvalitet producenter att marknadsföra sig själva som producent utan att ha tillräcklig kapacitet för blockproduktion.
 
-To address this, the WAX Blockchain uses three mechanisms:
+För att hantera detta använder WAX blockkedja tre mekanismer:
 
--   WAX standby guilds must prove their ability to produce blocks to be included in the pool of 57 qualified guilds (21 WAX Guilds + 36 standby guilds).
+-   WAX standby-guilder måste bevisa sin förmåga att producera block som skall ingå i poolen med 57 kvalificerade guilds (21 WAX Guilds + 36 standby-guilds).
 
--   As with WAX Guilds, WAX standby guilds get penalized if they cannot produce at least 50% of the blocks assigned to them.
+-   Som med WAX Guilds, WAX kan standby-guilder  straffas om de inte kan producera minst 50% av de block som tilldelats dem.
 
--   Because staking incentives get tied to guild performance, WAX Token holders are economically encouraged to direct their votes to higher performing WAX Guilds.
+-   Eftersom insats-incitamentet blir bunden till guild-prestandan, blir WAX Token-ägare mer ekonomiskt motiverade att rikta sina röster till WAX Guilds med högre prestanda WAX Guilds.
 
 
 <a id="markdown-wax-staking-rewards-as-a-solution-for-voter-apathy" name="wax-staking-rewards-as-a-solution-for-voter-apathy"></a>
 
-#### WAX Staking Rewards as a Solution for Voter Apathy
-Voter apathy is a concern for DPoS blockchains because other DPoS blockchains have been adversely affected by lack of voting. Systemic low voting rates on a chain prevent achieving decentralization, for which the chain was designed. We developed WAX Staking Rewards to drive community interest in the voting process. WAX Token holders who stake their WAX Tokens and vote for WAX Guilds receive these staking rewards. These rewards get maximized when voting is done regularly and for the top-performing guilds.
+#### WAX Insatsbelöningar som en lösning för väljarapati
+Väljarapati är ett bekymmer för DPoS-blockkedjor eftersom andra DPoS-blockkedjor har påverkats negativt av bristande röstning. Systematiskt låga röstningshastigheter på en kedja förhindrar decentralisering, som kedjan var utformad för. Vi utvecklade WAX Insatsbelöningar för att driva samhällets intresse för röstningsprocessen. WAX Token-ägare som satsar sina WAX Tokens och rösta på WAX Guilds får dessa insatsbelöningar.
 
 
 <a id="markdown-wax-staking-rewards" name="wax-staking-rewards"></a>
 
-#### WAX Staking Rewards
-WAX Token holders who stake their tokens and then vote with them earn additional WAX Tokens, called WAX Staking Rewards. These rewards are issued directly from the WAX Blockchain.
+#### WAX Insatsbelöningar
+WAX Token-ägare som satsat sina tokens och sedan röstar med dem tjänar ytterligare WAX tokens. Dessa intäkter kallas WAX Insatsbelöningar (WAX Staking Rewards) och ges ut direkt från WAX Blockkedja.
 
-These rewards are beneficial for dApp developers because it helps reserve their system resources (CPU and Network). RAM allocation can be purchased and sold to meet the needs of the dApp developer. The staking mechanism and WAX Staking Rewards combination make no-fee transactions possible. We don’t charge dApp developers for running the infrastructure that enables the processing of the transactions due to WAX Guild Rewards. By staking tokens, dApp developers claim their necessary allocation. Staking also prevents network spam from locking out legitimate transactions because everyone is rate-limited based on what they are allotted.
+dApp utvecklare kan också dra nytta av att satsa sina WAX-tokens eftersom det hjälper till att reservera systemresurser (CPU och nätverk). RAM-allokering kan köpas och säljas för att möta utvecklarens behov. Insatsmekanismen och WAX Insatsbelöningar-kombinationen möjliggör transaktioner utan avgift. Vi debiterar inte dApp-utvecklare för att köra infrastrukturen som möjliggör bearbetning av transaktioner på grund av Guild Rewards. Så genom att satsa tokens, kan dApp-utvecklare allokera nödvändigt RAM. Det förhindrar också nätverksskräp från att låsa ut legitima transaktioner eftersom alla är hastighetsbegränsade och baserade på deras tilldelning..
 
 
 <a id="markdown-staking-rewards-are-based-on-performance--penalties-for-underperformance" name="staking-rewards-are-based-on-performance--penalties-for-underperformance"></a>
 
-#### Staking Rewards are Based on Performance / Penalties for Underperformance
-To encourage WAX Token holders to vote for the highest quality WAX Guilds to produce blocks, WAX Staking Rewards are tied to the performance of the WAX Guilds. If a WAX Guild that a WAX Token holder voted for is underperforming, their WAX Staking Rewards decrease:
+#### Insatsbelöningar är baserat på prestanda / påföljder för underprestanda
+För att motivera WAX Token-ägare att rösta för WAX Guilds av högsta kvalitet för att producera blocks, är WAX Insatsbelöningar bundna till WAX Guilds prestanda. Om en WAX Guild som en WAX Token-ägare röstade för underpresterar, minskar deras WAX Insatsbelöningar:
 
 ![WAX Staking Rewards decrease](media/math3.jpg)
 
 
-WAX Staking Rewards are scaled by the performance of the WAX Guilds voters vote for:
+WAX Insats Belöningar skalas av resultatet av WAX Guilds väljarna rösta på:
 
 ![WAX Staking Rewards are scaled by the performance of the WAX Guilds voters vote for](media/math2.jpg)
 
 
-The function to determine a voter’s WAX Staking Rewards proportion:
+Funktionen för att bestämma en väljares WAX Insats Belöningar andel:
 
 ![he function to determine a voter’s WAX Staking Rewards proportion](media/math1.jpg)
 
 
-Therefore, if the token holder votes for the WAX Guilds that only produce 90% of blocks scheduled to them, the voter's WAX Staking Rewards are 90% of the minimum possible amount. If the voter votes for the WAX Guilds that produces 50% or less of blocks scheduled to them, the voter does not receive WAX Staking Rewards in exchange for voting for them. Also, these guilds that produce 50% or less of their scheduled blocks do not get paid their WAX Guild Rewards.
+Därför, om token-ägaren röstar för WAX Guilds som endast producerar 90% av block som är schemalagda för dem, är väljarens WAX Insatsbelöningar 90% av det minsta möjliga beloppet. Om väljaren röstar för WAX Guilds som producerar 50% eller mindre av block som planeras till dem, får väljaren inte WAX Insatsbelöningar i utbyte mot att rösta för dem. Dessa guilder som producerar 50% eller mindre av sina schemalagda block får inte heller betala sina WAX Guild-belöningar.
 
-The formula applies to standby guilds as well. That means the vote cast for a standby guild receives the same potential reward as the vote cast for a guild that has become one of the top 21 (i.e., a WAX Guild). It makes the voter agnostic as to whether a guild that the voter votes for is likely (or not) to be one of the 21 WAX Guilds. We want WAX Token holders to cast their vote for the guild they believe best represents them, without being penalized.
+Formeln gäller även Standby Guilds. Det betyder att omröstningen för en Standby Guild får samma potentiella belöning som rösterna för ett guild som har blivit en av de 21 (dvs. en WAX Guild). Det gör väljaren agnostisk till huruvida en guild som väljaren röstar för sannolikt (eller inte) kommer att vara en av de 21 WAX Guilds. Vi vill att innehavare av WAX-tokens ska rösta för den guild som de tror bäst representerar dem, utan att bli straffad.
 
-A voter can proxy a vote to anyone voting for underperforming WAX Guilds. In that case, the WAX Staking Rewards for those voting for underperforming WAX Guilds get diminished because their rewards are calculated based on the WAX Guilds that end up getting selected. A proxy cannot refresh a voter's vote weight when its votes on the voter’s behalf. Instead, the voter must refresh its vote for the proxy it chooses to regain full vote weight capacity and full WAX Staking Rewards capacity.
-
+En väljare kan ge fullmakt för en en röst till alla som röstar för underpresterande WAX Guilds. I så fall WAX Insatsbelöningar för dem som röstar på underpresterande WAX Guilds få minskat eftersom deras belöningar beräknas baserat på WAX Guilds som hamnar få utvalda. En fullmakt kan inte uppdatera en väljares röstvikt när dess röster för väljarnas fördel. Istället måste väljarna uppdatera sin röst för den fullmakt den väljer att återfå full röstvikt-kapacitet och full WAX Insatsbelöningar-kapacitet.
 
 
 <a id="markdown-genesis-block-member-rewards" name="genesis-block-member-rewards"></a>
 
-### Genesis Block Member Rewards
-As part of the WAX Token Swap, we created the **Genesis Block Member** (GBM) program. Broad community participation is essential for a well-functioning delegated proof of stake blockchain. The GBM program is designed to encourage civic engagement and reward our long-term-oriented WAX community members who take part in the WAX blockchain’s healthy development.
+### Genesis Block-medlemsbelöningar
+Som en del av ‘WAX Token Swap’ skapade vi **Genesis Block Member (GBM)** programmet. Brett samhällsdeltagande är viktigt för en välfungerande delegerat proof of stake (DPoS)-blockkedja. GBM programmet är utformat för att motivera och belöna våra långsiktiga WAX medlemmar som deltar i WAX blockkedjor hälsosamma utveckling.
 
-To incentivize token holders in keeping their tokens invested with WAX, we have developed the Genesis Block Member Rewards Program. GBM participants receive daily token rewards for 3 years (July 1, 2019, to July 1, 2022). WAX Tokens earned from the WAX Token Swap, WAX Guild Rewards, and WAX Staking Rewards are all eligible for the GBM tokens.
+För att motivera token ägare att hålla sina tokens investerade med WAX, har vi utvecklat Genesis Block-medlemsbelöningarprogrammet. GBM deltagare får dagliga tokenbelöningar i 3 år (1 juli 2019 till 1 juli 2022). WAX Tokens som intjänats från WAX Token Swap, WAX Guild Belöninga och Insats Belöningar är alla kvalificerade till GBM tokens.
 
--   Genesis WAX Protocol Tokens continue to produce WAX Protocol Token GBM rewards every day as long as they remain staked.
+-   Genesis WAX protokoll Tokens fortsätter att producera WAX protokoll Token GBM belöningar varje dag så länge de förblir satsade.
 
--   By leaving Genesis WAX Protocol Tokens staked uninterrupted for 3 years, WAX Token holders double their WAX Protocol Tokens. If a WAX Token Holder ceases staking its WAX Tokens before three years have elapsed, then rewards are prorated.
+-   Genom att lämna Genesis WAX protokoll Tokens som varit oavbrutet i 3 år dubblar WAX Token ägare sina WAX-protokoll Tokens. Om en WAX Token-ägare upphör att satsa sina WAX Tokens innan tre år har förflutit, fördelas belöningarna proportionellt.
 
--   If a Genesis WAX Protocol Token is unstaked, it permanently stops producing WAX Protocol Token GBM rewards. When this happens, it cannot be undone.
+-   Om ett Genesis WAX-protokoll Token är icke satsad, slutar det permanent att producera WAX-protokoll Token GBM belöningar. När detta händer kan det inte ångras.
 
--   A WAX Token holder may unstake all or a portion of its Genesis WAX Protocol Tokens at any time. The unstaked tokens become WAX Protocol Tokens and permanently stop producing daily GBM rewards.
+-   En WAX Token ägare kan när som helst satsa hela eller en del av sina Genesis WAX Protokoll Tokens. Dessa tokens blir WAX-protokoll Tokens och slutar permanent att producera dagliga GBM-belöningar.
 
--   The GBM rewards get burned instead of earned, creating a deflationary effect on the token supply as indicated below.
+-   GBM belöningarna bränns i stället för intjänade, vilket skapar en deflationistisk effekt på token utbudet som nedan.
 
 
 <a id="markdown-deflation--inflation" name="deflation--inflation"></a>
 
 ### Deflation / Inflation
-Due to the GBM program described above, there is a 50% deflation potential from the WAX Token Swap, as detailed in the following chart:
+På grund av GBM programmet som beskrivs ovan finns det en 50% deflationspotential från WAX Token Swap, som beskrivs i följande diagram:
 
-| Token Description                        | Initial Token Supply |
-|------------------------------------------|----------------------|
-| Number of ERC-20 WAX Tokens              | 1.85 billion         |
-| System resources                         | 20,000,000           |
-| Pre-minted GBM Tokens for WAX Token Swap | 1.85 billion         |
-| Max. total supply (excluding inflation)  | 3.72 billion         |
-| Min. total supply (excluding inflation)  | 1.87 billion         |
-| Total potential deflation %              | 50%                  |
+| Token Beskrivning                        | Inledande tokenförsörjning |
+|------------------------------------------|----------------------------|
+| Antal ERC-20 WAX Tokens                  | 1,85 miljarder             |
+| Systemresurser                           | 20,000,000                 |
+| Pre-minted GBM Tokens för WAX Token Swap | 1,85 miljarder             |
+| Max. total utbud (exklusive inflation)   | 3,72 miljarder             |
+| Min. total utbud (exklusive inflation)   | 1,87 miljarder             |
+| Total potentiell deflation%              | 50%                        |
 
-> **Note:** Future GBM unearned rewards from unstaking WAX Token holders get burned, on a proportionate basis, when WAX Token holders unstake their GBM tokens.
+> **Obs:** Framtida GBM oförtjänta belöningar från icke satsande WAX Tokenägare bränns proportionellt när WAX Tokenägare satsar sina GBM-tokens.
 
-At the same time, there is an inflation model from Token Rewards, as detailed in the following chart:
+Samtidigt finns det en inflationsmodell från Token-belöningar, som beskrivs i följande diagram:
+
 
 ![Inflation Model Token Rewards](media/inflation-model-token-rewards.png)
 
@@ -315,429 +281,112 @@ At the same time, there is an inflation model from Token Rewards, as detailed in
 
 <a id="markdown-transactions" name="transactions"></a>
 
-### Transactions
-For e-commerce to work, transactions must be free to prevent bottlenecks that would otherwise occur due to fee markups during times of token price inflation and increased volume. With free transactions, however, spam becomes a problem. To prevent spam on the WAX Blockchain, transaction senders must stake system resources required to process the transaction. The system resources to stake are NET (network), CPU, and RAM. By staking WAX for CPU and NET (bandwidth), a user gets a proportionate share of the overall blockchain resources, which guarantees that transactions get processed at a corresponding rate.
+### Transaktioner
+För att e-handel ska fungera måste transaktioner vara fria att förhindra flaskhalsar som annars skulle uppstå på grund av avgiftspålägg under tider av prisinflation av tokens och ökad volym. Men med gratis transaktioner, blir skräppost problemet. För att förhindra skräppost på WAX Blockkedja måste transaktionsavsändare satsa systemresurser som krävs för att bearbeta transaktionen. De systemresurser som ska satsas är NET (nätverk), CPU och RAM. Genom att satsa WAX för CPU och NET (bandbredd) får en användare en proportionell andel av de totala blockchain-resurserna, vilket garanterar att transaktioner behandlas i motsvarande takt. 
 
-In a recent upgrade, staking system resources to have a transaction processed has moved from the sender to another party, for example, a dApp maintainer. Doing this facilitates onboarding users into the system because the users don't need to understand staking for resources. Depending on the transaction, a customer may require ownership of a certain amount of RAM. In this case, the customer can purchase more RAM from a WAX Blockchain-powered marketplace that exchanges WAX for RAM according to the Bancor algorithm.
+I en nyligen uppgraderad flyttning av systemresurser för att få en transaktion behandlad från avsändaren till en annan part, till exempel en dApp underhållare. Genom att göra detta underlättas användarna ombord i systemet enkelt eftersom användarna inte behöver förstå insatser för resurser. Beroende på transaktionen kan en kund kräva ägande av ett visst RAM minne. I det här fallet kan kunden köpa mer RAM från en WAX Blockkedja marknadsplats som byter WAX mot RAM enligt Bancor algoritmen.
 
 
 
 <a id="markdown-providing-cost-efficiency-in-terms-of-fee-elimination" name="providing-cost-efficiency-in-terms-of-fee-elimination"></a>
 
-#### Providing Cost Efficiency in Terms of Fee Elimination
-WAX offers a free, flexible platform for sending transactions where customers don’t pay for transactions. The idea behind this more straightforward usage policy is to create a higher rate of adoption. It’s also possible for organizations, businesses, and developers to create a wide range of monetization strategies.
+#### Tillhandahålla kostnadseffektivitet när det gäller eliminering av avgift
+WAX erbjuder en gratis, flexibel plattform för att skicka transaktioner där kunderna inte betalar för transaktioner. Tanken bakom denna mer enkla användnings politik är att skapa en högre grad av antagande. Det är också möjligt för organisationer, företag och utvecklare att skapa ett brett utbud av intäktsstrategier.
 
 
 
 <a id="markdown-smart-contracts--rng" name="smart-contracts--rng"></a>
 
-### Smart Contracts + RNG
-Contracts in business are meant to ensure an agreement between the parties for a specific service or to meet a set of standard requirements. Contracts are a set of conditions or rules to be adhered to by both parties. As long as these requirements get met, execution is possible.
+### Smarta kontrakt + RNG
+Kontrakt i verksamheten är tänkt att säkerställa ett avtal mellan parterna om en viss tjänst eller att uppfylla en uppsättning standardkrav. Kontrakt är en uppsättning villkor eller regler som båda parter måste följa. Så länge dessa krav uppfylls är genomförande möjligt.
 
-WAX Smart Contracts are similar in that they provide a structure for obligations between all participants to process financial transactions on the WAX Blockchain. WAX Smart Contracts get executed when the set of conditions, or rules, get met, but the records for legal transfer and activity get stored on the WAX Blockchain with transparency.
+WAX smarta kontrakt är liknande på det att de ger en struktur för skyldigheter mellan alla deltagare att behandla finansiella transaktioner på WAX Blockkedja. WAX smarta kontrakt genomförs när uppsättningen av villkor eller regler uppfylls, men dokumenten för laglig överföring och aktivitet lagras på WAX Blockkedja med öppenhet.
 
-WAX Smart Contracts reside on a WAX Account and have a 12-character, human-readable label chosen by the creator of the account. Within the WAX ecosystem, any account can send actions to other accounts where the transaction gets handled by the smart contract code residing on the target account. Multiple accounts can receive multiple actions for a single transaction.
+WAX smarta kontrakt finns på ett WAX konto och har en etikett med 12 tecken, som kan läsas av människor och som väljs av kontots skapare. Inom WAX-ekosystemet kan alla konton skicka åtgärder till andra konton där transaktionen hanteras av den smarta kontraktskoden som finns på målkontot. Flera konton kan ta emot flera åtgärder för en enda transaktion.
 
-WAX Smart Contracts define:
+WAX smarta kontrakt definierar:
 
--   obligations
+-   Skyldigheter
 
--   parameters
+-   Parametrar
 
--   required actions
+-   Nödvändiga åtgärder
 
--   information structure
+-   Informationsstruktur
 
--   interface code
+-   Gränssnittskod
 
 
 
 <a id="markdown-wax-random-number-generator-rng-smart-contract" name="wax-random-number-generator-rng-smart-contract"></a>
 
-#### WAX Random Number Generator (RNG) Smart Contract
-In generic terms, a [random number generator (RNG)](https://en.wikipedia.org/wiki/Random_number_generation) is an algorithm that generates random values. In blockchain terms, dApp developers use RNGs to introduce a random outcome, such as generating a digital collectible or NFT. Currently, integrating random values into smart contracts has process flaws, which create potential vectors for unfair, or non-random values, reducing a customer's confidence in using dApps.
+#### WAX Slumptalsgenerator smarta kontrakt - Random Number Generator (RNG)
+I generiska termer, är en slumptalsgenerator (RNG) en algoritm som genererar slumpmässiga värden. I blockkedje-termer använde dApp utvecklarer RNGs att införa ett slumpmässigt resultat , till exempel att generera en digital samlarobjekt eller NFT. För närvarande integrerar slumpmässiga värden i smarta kontrakt processfel, som skapar potentiella vektorer för orättvisa eller icke slumpmässiga värden, vilket minskar kundens förtroende för att använda dApps.  
 
-The **three** main problems that developers experience when trying to generate and ingest random values into their dApps include:
+De **tre** huvudproblemen som utvecklarna upplever när de försöker generera och ta in slumpmässiga värden i sina dApps inkluderar:  
 
-1.  Blockchain-native RNG services don’t exist, leaving dApp developers to build their own. This reduces the time the dApp developers can spend on other areas of their dApps, such as designs and features that would improve the customer experience.
+1.  Blockkedje naturliga RNG tjänster finns inte, vilket lämnar dApp utvecklare att bygga sina egna. Detta minskar tiden som dApp utvecklarna kan spendera på andra områden i sina dApps, till exempel design och funktioner som skulle förbättra kundupplevelsen.
 
-2.  It's not uncommon that most dApp developers are not experts with the RNG, so there are design weaknesses with most dApp-specific RNG services. 
+2.  Det är inte ovanligt att de flesta dApp utvecklare inte är experter med RNG, så det finns designbrister med de flesta dApp-specifika RNG tjänster. 
 
-3.  Sometimes dApp customers have difficulty determining whether a dApp's RNG service is generating a random result or not, which diminishes customer confidence.
+3.  Ibland har dApp kunder svårt att avgöra om en dApps RNG tjänst genererar ett slumpmässigt resultat eller inte, vilket minskar kundernas förtroende.
 
 
 <a id="markdown-how-wax-rng-native-blockchain-service-solves-important-problems" name="how-wax-rng-native-blockchain-service-solves-important-problems"></a>
 
-#### How WAX RNG Native Blockchain Service Solves Important Problems
-The open-source WAX RNG Native Blockchain Service allows dApp developers to integrate the service into their dApps easily. We chose [Signidice algorithm](https://github.com/gluk256/misc/blob/master/rng4ethereum/signidice.md) and [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) verification for this service because:
+#### Hur WAX RNG naturliga blockkedje-tjänst löser viktiga problem
+Den i öppen källkod WAX RNG naturliga Blockkedje-Tjänst tillåter dApp-utvecklare enkelt integrera tjänsten i sina dApps. Vi valde[Signidice algorithm](https://github.com/gluk256/misc/blob/master/rng4ethereum/signidice.md) och [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) verifiering för den här tjänsten eftersom:
 
--   **Signidice algorithm:** Excellent randomization, non-gameable characteristics, cleaner workflow for dApp developers, and provably fair.
+-   **Signidice algorithm:** Utmärkt randomisering, icke spelbara egenskaper, renare arbetsflöde för dApp utvecklare och bevisligen rättvis.
 
--   **RSA verification:** Ensures uniqueness of the signature and removes the ability for the results to be manipulated. Note, using other types of signing algorithms may allow many valid signatures for the same signing value, which could result in manipulation.
+-   **RSA verification:** Säkerställer unik signatur och tar bort möjligheten att manipulera resultaten. OBS: om du använder andra typer av signeringsalgoritmer kan det tillåta många giltiga signaturer för samma signeringsvärde, vilket kan resultera till manipulation. 
 
-The self-verifying WAX RNG Native Blockchain Service confirms that the RSA signature that comes back from the WAX RNG oracle is valid and authentic before being utilized by the dApp. When dApp customers can quickly establish fairness, they have a higher degree of confidence in using the dApp.
+Den självverifierande WAX RNG Naturlig Blockkedja Tjänst bekräftar att RSA signaturen som kommer tillbaka från WAX RNG oraklet är giltig och autentisk innan den används av dApp. När dApp kunder snabbt kan upprätta rättvisa har de ett högre grad av förtroende för att använda dApp.
 
 
 <a id="markdown-nft-standards--nft-integration-with-wax-expresstrade" name="nft-standards--nft-integration-with-wax-expresstrade"></a>
 
-## NFT Standards / NFT Integration with WAX ExpressTrade
-WAX supports non-fungible tokens using the [Simple Assets](https://github.com/CryptoLions/SimpleAssets) open-source standard. WAX ExpressTrade leverages the WAX Blockchain via a microservice called WAX-On to generate, mint, and store the NFTs it manages. With this, we have the WAX-On microservice:
+## NFT Standarder / NFT Integrering med WAX ExpressTrade
+WAX stöder icke-fungibel tokens med hjälp av öppen källkod-standarden [Simple Assets](https://github.com/CryptoLions/SimpleAssets). WAX ExpressTrade utnyttjar WAX Blockkedja via en microservice som kallas WAX-On för att generera, mynta och lagra NFTs som den hanterar. Med detta har vi WAX-On-microservice:
 
-1.  All users see their transactions on the chain.
+1.  Alla användare ser sina transaktioner på kedjan.
 
-2.  Customers can prove to themselves that they have been chosen for random selections fairly.
+2.  Kunder kan bevisa sig själva att de har valts för slumpmässiga val rättvist.
 
-3.  dApp developers have access to a large user base of OPSkins customers.
+3.  dApp-utvecklare har tillgång till en stor användarbas av OPSkins kunder.
 
-4.  The service leverages open-source Simple Assets NFT implementation.
+4.  Tjänsten utnyttjar NFT-implementering med öppen källkod.
 
-Full integration with other NFT standards such as dGoods on EOS, Ethereum, and Tron is part of the roadmap. Interoperability maximizes the liquidity for buyers and sellers and is the essential value proposition of the WAX Protocol.
+Fullständig integrering med andra NFT standarder som dGoods på EOS, Ethereum och Tron är en del av färdplanen. Interoperabilitet maximerar likviditeten för köpare och säljare och är det viktiga värdet proposition av WAX-protokollet.
 
 
 <a id="markdown-worker-proposal-system" name="worker-proposal-system"></a>
 
-## Worker Proposal System 
-The WAX Worker Proposal System (WWPS) is a proposed program that’s designed to incentivize and compensate community developers who build upon the WAX Blockchain. The WWPS would allocate WAX Tokens (denominated in WAX Tokens and paid in WAX Tokens) to be distributed to developers who work on community needs, patches, and upgrades. In exchange for their time and effort contributing to the development of WAX, these developers would become eligible to receive WAX Tokens from the WWPS.
+## Arbetarförslagssystem (Worker Proposal System)
+WAX Worker Proposal System (WWPS) är ett föreslaget program som är utformat för att motivera och kompensera samhällets utvecklare som bygger på WAX Blockkedja. WWPS skulle tilldela WAX Tokens (denominerade i WAX Tokens och betalas i WAX Tokens) för att delas ut till utvecklare som arbetar med samhällets behov, patchar och uppgraderingar. I utbyte mot sin tid och ansträngning som bidrar till utvecklingen av WAX, skulle dessa utvecklare bli berättigade att få WAX Tokens från WWPS.
 
-One percent (1%) WAX annual inflation would fund the WWPS and would not be eligible for GBM Rewards, to encourage the active distribution of the funds to developers.
+En procent (1%) WAX årliga inflationen skulle finansiera WWPS och skulle inte vara berättigade till GBM Belöningar, för att uppmuntra till aktiv distribution av medel till utvecklare.
 
 
 <a id="markdown-why-do-we-need-the-wwps" name="why-do-we-need-the-wwps"></a>
 
-### Why do we need the WWPS?
-WAX has several improvements to be made, and some desired features are still missing. In the decentralized nature of blockchains, there are not enough incentives for community developers to spend their time contributing patches and upgrades needed for efficient and scalable advancements.
+### Varför behöver vi WWPS?
+WAX har flera förbättringar att göra, och vissa önskade funktioner saknas fortfarande. I blockchains decentraliserade natur finns det inte tillräckligt med incitament för samhällsutvecklare att spendera sin tid på att bidra med patchar och uppgraderingar som behövs för effektiva och skalbara framsteg.
 
-To make sure WAX remains up-to-date with the changing needs of the community, we will soon introduce a Work Proposal System (WPS). The planned WPS will allow for an allocation of funds to reserve for incentivizing developers to work on the community needs, such as critical patches or forward-looking upgrades. The idea behind WPS is to utilize the strengths of a decentralized community going forward, reducing the reliance on a single source for new additions. The WPS also would allow the community to nurture and grow the tool.
+För att se till att WAX förblir uppdaterat med samhällets förändrade behov kommer vi snart att införa ett arbetsförslagssystem (WPS). Den planerade WPS kommer att möjliggöra en fördelning av medel för att reservera för att incitament utvecklare att arbeta med samhällets behov, till exempel kritiska patchar eller framåtblickande uppgraderingar. Tanken bakom WPS är att utnyttja styrkorna hos ett decentraliserad samhälle framöver, vilket minskar beroendet av en enda källa för nya tillägg. WPS skulle också göra det möjligt för samhället att vårda och växa verktyget.
 
 
 <a id="markdown-proposed-wwps-categories" name="proposed-wwps-categories"></a>
 
-### Proposed WWPS Categories
-1.  **Oversight:** Supports the underlying code base of the blockchain, which includes security audits, Distributed Denial of Service (DDoS) protection, bug patches, and mainnet repository maintenance.
+### Föreslagit WWPS-kategorier
+1.  **Övervakning:** Stödjer den underliggande kodbasen för blockkedja, som inkluderar säkerhetsrevisioner, Distribuerad denial of Service (DDoS) -skydd, felpatcher och underhåll av mainnet-arkiv.
 
-2.  **Infrastructure:** Supports the underlying code base of the blockchain, which includes security audits, Distributed denial of service (DDoS) protection, bug patches, and mainnet repository maintenance.
+2.  **Infrastruktur:** Stödjer den underliggande kodbasen för blockkedja, som inkluderar säkerhetsrevisioner, Distribuerad denial of Service (DDoS) skydd, felpatcher och underhåll av mainnet arkiv.
 
-3.  **Community:** Supports the resources and spaces that bring people together, such as meetups, educational content and platforms, public relations, lawyers, advocates, and lobbyists.
+3.  **Samhället:** Stödjer resurser och utrymmen som samlar människor, till exempel möten, utbildningsinnehåll och plattformar, PR, advokater, förespråkare och lobbyister. 
 
-4.  **Development:** Supports developers and ideas, such as dApps and applications that may be necessary for underserved minorities.
+4.  **Utveckling:** Stödjer utvecklare och idéer, till exempel dApps och applikationer som kan vara nödvändiga för underserverade minoriteter.
 
-5.  **Miscellaneous:** Supports swag, burning, and projects that may not fit into other categories.
+5.  **Miscellaneous:** Stödjer swag, bränning och projekt som kanske inte passar in i andra kategorier.
 
-A percentage of the WWPS funds would be allocated to each category, ensuring that no category would have an oversized impact on the WPS. The fund, however, would require oversight to screen out non-legitimate proposals and possible abuse.
-
-
-<a id="markdown-net-cpu-and-ram-resources-on-the-wax-blockchain" name="net-cpu-and-ram-resources-on-the-wax-blockchain"></a>
-
-## NET, CPU, and RAM Resources on the WAX Blockchain
-Since the WAX Blockchain mainnet and protocol token launched, we’ve been thrilled to see the level of participation in staking and voting among WAX Token holders who have [swapped](http://tokenswap.wax.io/) their tokens. As we’ve [mentioned](https://wax.io/blog/earn-more-wax-introducing-wax-block-rewards-staking-and-voting-guilds-and-more), staking and voting is crucial for DPoS blockchains such as WAX because the more involved the community, the better the blockchain operates for everyone. Now we’d like to explain what the NET (Network), CPU, and RAM is that the community is staking.
-
-In the WAX ecosystem, the following resources get consumed by dApps:
-
--   **NET** - throughput capacity of the WAX network, measured in bytes
-
--   **CPU** - processing time of an action, measured in microseconds
-
--   **RAM** - stores data of dApps in the blockchain
-
-In this ecosystem, *bandwidth,* which consists of NET and CPU, is flexible. That means WAX Token holders can have more bandwidth allocated than the ratio they have staked vs. the total stake pool. Minimum resource allocation is the fraction: 'your stake' divided by 'total stake.' Bandwidth is consumed at the block height that a transaction is included and then regenerates for future usage.
-
-Since RAM is limited and necessary to hold a dApp's state, which must persist over time, RAM must be allocated. Therefore, RAM is not based on staking; rather, it is purchased and sold. Realize that one can sell deallocated RAM at any time back to the blockchain's native RAM market, or allocate it for usage at any future point in time.
-
-More information about NET, CPU and RAM on the WAX Blockchain can be found here:
-[https://wax.io/blog/what-is-net-cpu-and-ram-on-the-wax-blockchain](https://wax.io/blog/what-is-net-cpu-and-ram-on-the-wax-blockchain)
-
-
-<a id="markdown-microservice-layer" name="microservice-layer"></a>
-
-## Microservice Layer
-The WAX Service Layer is a full suite of blockchain-based tools and services that allow the community to build projects on WAX. From dApps developers to marketplace owners, video game creators, collectible traders and more, the following microservices are available:
-
--   **WAX All Access:** A single sign-on (SSO) and OAuth service.
-
--   **WAX Account (soon WAX Wallet):** Similar to a wallet, except that it doesn’t store private keys, and provides more utility than a standard wallet. WAX Wallet, the next iteration of the WAX Account, is coming soon and will offer more features. Details to follow.
-
--   **WAX NFT Creator:** A self-service tool that allows anyone to create a NFT on the WAX Blockchain for free.
-
--   **WAX ExpressTrade:** A free, instant peer-to-peer trading service.
-
--   **WAX Explorer:** Unlike any block explorer, featuring a user-friendly design, a visual representation of every item traded, and multiple 3D viewing and interactive features.
-
--   **WAX Marketplace:** Create a WAX Marketplace with our APIs.
-
-
-
-<a id="markdown-wax-all-access" name="wax-all-access"></a>
-
-### WAX All Access
-WAX All Access simplifies the login process because it allows access to any WAX-powered site by logging in with Facebook, Google, Wechat, Steam, or a WAX All Access username and password. The SSO and OAuth services let account holders link these other accounts to their WAX Blockchain account for easier access to their WAX account. To create an account, visit [all-access.wax.io](all-access.wax.io).
-
-Only specific permissions are received from these third parties and do not involve WAX Blockchain account information.
-
-
-
-<a id="markdown-wax-account-soon-wax-wallet" name="wax-account-soon-wax-wallet"></a>
-
-### WAX Account (soon WAX Wallet) 
-A WAX Account is similar to a wallet, except that it doesn’t store private keys. WAX Account provides more utility than a standard wallet because it can view many kinds of non-fungible assets as well as integrate with functions like vote and staking.
-
-WAX Account will soon be WAX Wallet. More features about WAX Wallet will be available in the near future.
-
-WAX Account Token holders can perform the following activities directly from their WAX Account.
-
--   **Swap** ERC-20 WAX Tokens for [Genesis WAX Protocol Tokens](https://wax.io/blog/introducing-the-genesis-block-member-program-join-and-receive-daily-token-rewards-for-3-years)
-
--   **Stake** any WAX Protocol Tokens acquired or earned through [Staking Rewards](https://wax.io/blog/earn-more-wax-introducing-wax-block-rewards-staking-and-voting-guilds-and-more) and Genesis Block Member Rewards using Scatter wallet
-
--   **[Vote](https://wax.io/blog/earn-more-wax-introducing-wax-block-rewards-staking-and-voting-guilds-and-more)** with WAX Protocol Tokens
-
--   **Claim** Staking Rewards and Genesis Block Member Rewards
-
--   **Track** WAX Token balances and Staking Rewards
-
--   **View** NFTs
-
-WAX Accounts can be made at [accounts.wax.io](http://accounts.wax.io).
-
-WAX Accounts are free for customers. An existing WAX Blockchain account must generate WAX Accounts. Each WAX Account requires 3KB of RAM and a minimal amount of WAX (\~1 WAX) to provide bandwidth for CPU and NET system resources, which WAX covers the cost of for most accounts.
-
-By requiring 2FA and account scoring, WAX prevents account creation spam.
-
-
-
-<a id="markdown-wax-nft-creator" name="wax-nft-creator"></a>
-
-### WAX NFT Creator
-WAX Creator is a self-service tool that allows anyone to create NFTs like collectible cards, stickers, and digital art on the WAX Blockchain in just minutes, and for free. It requires zero technical knowledge on the part of the creator. Hundreds of thousands of NFTs have been created on the WAX Blockchain using the WAX Creator since launching in June 2019.
-
-NFTs are minted on the WAX Blockchain and sent to the creator’s WAX ExpressTrade Inventory. Owners of these NFTs can sell them, gift them, trade them, or collect them. They can also be used to create dApps, such as a card game that’s played using custom WAX Collectable Cards.
-
-NFTs can have generic attributes, unique attributes including random integers, descriptions, and more.
-
-
-<a id="markdown-wax-expresstrade" name="wax-expresstrade"></a>
-
-### WAX ExpressTrade
-WAX ExpressTrade enhances the experience for a rapidly growing global community of digital item buyers, sellers, and collectors. This free and instant peer-to-peer service lets digital item traders buy, sell, and trade digital items on the WAX Blockchain.
-
-The WAX ExpressTrade API gives independent marketplaces a pipeline into the multi-billion dollar digital item trading industry. Marketplaces of any size and in any geography can use WAX ExpressTrade to create a thriving market for their digital items like video game skins and other tradable items, or physical items like electronics or sneakers. WAX ExpressTrade provides  marketplaces a way to give their customers access to the global WAX item trading market; and not just the limited inventory available in their marketplace. Buyers can find those coveted rare items easier, and sellers can match with suitable customers faster.
-
-
-<a id="markdown-wax-explorer" name="wax-explorer"></a>
-
-### WAX Explorer
-The WAX Explorer is unlike any that the blockchain world has seen before.
-
-Most block explorers were originally designed for commodity-style, fungible tokens like Bitcoin and Litecoin. They exist to simply provide relevant information about the tokens being traded. For generic tokens like BTC and LTC, the information anyone is interested in tracking is pretty limited to just metadata - what block the transaction is in, the milliseconds it took, the address it was sent to, etc.
-
-But WAX is a different type of blockchain, and the products that are traded on it are very different from what’s viewed on other block explorers. As we usher in the new era of consumer-friendly mass adoption of blockchain technology, we saw that it was necessary to invent a new type of block explorer that was different from everything else out there. If the types of items that are trading on the beta WAX Blockchain are different from the items trading on other blockchains, then it’s logical that the WAX Explorer should be different as well.
-
-Like other block explorers for other chains, the WAX Explorer shows details for all transactions taking place on the beta WAX Blockchain and other important data. But that’s where the similarities to other block explorers end. We’ve completely re-imagined what a block explorer should do and look like with the WAX Explorer.
-
-The difference between seeing Ethereum traded on Etherscan versus VGO skins traded on the WAX Explorer is that ETH transactions are just a string of characters whereas non-fungible tokens (NFTs) like VGO and CryptoKitties are all completely unique from one another. They’re unique collectibles and therefore e-commerce products, not store-of-value commodities like other tokens. For this reason, a block explorer that shows transactions of these NFTs must include merchandising data relevant to someone searching for and trading them. That’s what we built with the WAX Explorer.
-
-The appearance of the items traded on WAX is extremely important to traders of them. WAX Stickers and WAX Digital Art are custom designed by their creators. Features like the wear value on a VGO skin can significantly affect the price. So why hide these visuals behind an ugly stream of letters and numbers, when customers want to see the items that they’re trading?
-
-Designing the WAX Explorer in the same way that block explorers were designed for commodity-style token trading would be like Amazon having just SKU numbers and weight information for its products instead of photos and videos showing shoppers what the product looks like.
-
-In addition to showing the visuals for all items traded on WAX, we also included a 360 degree rotating animation for WAX Stickers and VGO items, and the WAX 3D Item Viewer Service that allows anyone to click and drag on the item to view it
-at any angle (not all VGO items have the 3D Item Viewer Service enabled now, but all eventually will).
-
-The WAX Explorer also shows relevant information outside of traditional block explorer data like the description and creator of WAX Stickers or WAX Digital Art, or which vCase the item came from, because that matters to the consumers of these items who are buying products - not commodities.
-
-Our overall goal was to make the WAX Explorer as user-friendly as possible. If the blockchain community’s goals is mass adoption of blockchain technology among general consumers, then block explorers - and blockchain-based products overall - shouldn’t be designed so that only blockchain-savvy people can easily use and understand. People should be able to use a blockchain-based service like the WAX Explorer without realizing they’re interacting with the blockchain. Consumers shouldn’t have to actively think about using the blockchain when searching for an item’s sale history in the same way they don't have to actively think about using the internet when asking Google Home to turn up the volume on Pandora. NFT traders should be able to easily view the items that they're trading or interested in trading, see the price of the items in USD instead of calculating crypto, and use all of the visual features on the block explorer that exist on other sites.
-
-
-<a id="markdown-wax-marketplace" name="wax-marketplace"></a>
-
-### WAX Marketplace
-WAX supports a growing ecosystem of marketplaces. With WAX Marketplace, third-parties can list, purchase, and settle the transaction all through a smart contract. Anyone can operate a fully functioning virtual marketplace with blockchain trust and transaction verification.
-
-# WAX Technical Documentation
-In the [WAX Technical Documentation on GitHub](https://github.com/worldwide-asset-exchange), developers can find information about the WAX Blockchain, WAX System Contracts, WAX RNG, and WAX Contract Development Toolkit. Soon, developer-specific technical documentation will be available, called the WAX Developer Hive, that developers can use to build projects using the WAX suite of microservices. These tools include services to support e-commerce operations, such as:
-
--   Interactive block explorer
-
--   Wallet
-
--   SSO and OAuth
-
--   Item creation
-
--   RNG service
-
--   Interactive item viewers
-
--   Marketplace creation
-
-
-# WAX Projects Showcase
-For the past 12 months, hundreds of sites have built dApps integrating WAX microservices. Their feedback has been immensely useful to help refine the microservice platform. Here, in this section, we cover a select group of dApps and other projects that utilize the WAX Platform in whole or in part.
-
-
-<a id="markdown-marketplaces" name="marketplaces"></a>
-
-## Marketplaces
-
-
-<a id="markdown-opskins" name="opskins"></a>
-
-### [OPSkins](https://opskins.com/)
-OPSkins is one of the world’s largest and most successful digital items trading marketplaces and is powered by WAX. Millions of customers use OPSkins, totaling hundreds of millions of transactions since 2015. OPSkins features WAX All Access, WAX ExpressTrade, WAX Seller Central, and more.
-
-
-<a id="markdown-waxpeer" name="waxpeer"></a>
-
-### [WAXPeer](https://waxpeer.com/)
-WAXPeer is a peer-to-peer CS:GO skins marketplace.
-
-
-
-<a id="markdown-waxtrades" name="waxtrades"></a>
-
-### [WAXTrades](https://waxtrades.com/)
-Customers use this marketplace for buying, selling, and trading VGO or vIRL items with many different payment methods.
-
-
-
-<a id="markdown-dcart" name="dcart"></a>
-
-### [dCart](https://dcart.io/)
-dCart is a decentralized ecommerce platform for digital assets trading, built on
-Blockchain technology.
-
-
-
-<a id="markdown-bynogame" name="bynogame"></a>
-
-### [ByNoGame](https://www.bynogame.com/en) 
-ByNoGame is a marketplace serving Turkey and the Middle East. They implemented WAX ExpressTrade in 2018 and have continued to expand their usage of [WAX keys and VGO](https://www.bynogame.com/skin/vgo/wax-key).
-
-
-<a id="markdown-collectibles" name="collectibles"></a>
-
-## Collectibles
-
-<a id="markdown-virl" name="virl"></a>
-
-### [vIRL](https://govirl.io/)
-To make a digital twin of a physical item and tokenizing is a novel idea. Like the stable coin Tether, imagine a token backed by a real-world object, such as a pair of high-end collectible sneakers. vIRL demonstrated by launching its dApp in November 2018, to immediate commercial success. Tens of millions of vIRLs have been created - all trading on the WAX Blockchain.
-
-
-
-<a id="markdown-vgo" name="vgo"></a>
-
-### [VGO](https://vgo.gg/) 
-VGO is blockchain-based items, designed for collecting and trading. VGO items are designed to mimic the trading experience of popular games but without onerous trading restrictions.
-
-
-
-<a id="markdown-fnatic" name="fnatic"></a>
-
-### [Fnatic](https://www.fnatic.com/)
-WAX and Fnatic, one of the world’s leading global eSports brands, partnered to gift authentic digital collectibles and branded physical merchandise to global eSports fans in real-time. Fans can sell, swap, store and gift limited-edition items on their [WAX ExpressTrade account](https://wax.io/expresstrade/) - instantly and for free. That means that for the first time, eSports fans can acquire branded physical merchandise from a team and its players, then trade those items with anyone else in the world without ever having to take physical ownership of it.
-
-
-<a id="markdown-augmented-reality" name="augmented-reality"></a>
-
-### Augmented Reality 
-[RTFKT](https://www.rtfkt.net/), the world’s first Augmented Reality (AR) e-commerce inspired by two of the most popular consumer trends – streetwear fashion and video gaming. Blending the obsession of sneaker collecting with designs and attributes inspired by skin drops in video games.
-
-At E3 2019, WAX demonstrated AR e-commerce with the custom shoe brand, RTFKT, on Snapchat with members of the FaZe Clan team. The demo showed how virtual items purchased in AR could link to physical items on the WAX Blockchain for redeeming for the physical version in just a few clicks. See a demo here:
-
-[https://www.youtube.com/watch?v=YZSDpQcJlXg&feature=youtu.be](https://www.youtube.com/watch?v=YZSDpQcJlXg&feature=youtu.be)
-
-
-
-<a id="markdown-terra-virtua" name="terra-virtua"></a>
-
-### [Terra Virtua](https://terravirtua.io/)
-Owners of the millions of [VGO skins](https://wax.io/blog/vgo-items-will-trade-on-the-wax-blockchain) trading on the WAX Blockchain can interact with their digital items in augmented reality [Terra Virtua](https://terravirtua.io/), the immersive AR/VR platform for collectibles and a [WAX partner](https://wax.io/blog/wax-x-terra-virtua-a-new-partnership), has released its [AR app for Android devices](https://play.google.com/store/apps/details?id=com.bim.terravirtua&hl=en_US) featuring WAX integration. See a demo of VGO skins in AR here:
-
-[https://www.youtube.com/watch?v=uH9fu5eNICk](https://www.youtube.com/watch?v=uH9fu5eNICk)
-
-
-App users can [download the Terra Virtua app](https://play.google.com/store/apps/details?id=com.bim.terravirtua&hl=en_US) on the Google Play store, then login with WAX. Terra Virtua will read its WAX ExpressTrade inventory and let the users select which VGO skins to interact with. The iOS app is coming soon, in addition to the virtual reality Terra Virtua app and vIRL integration.
-
-
-
-<a id="markdown-e-commerce" name="e-commerce"></a>
-
-## E-commerce
-
-<a id="markdown-fan-controlled-football-league-fcfl" name="fan-controlled-football-league-fcfl"></a>
-
-### [Fan Controlled Football League (FCFL)](https://www.fcfl.io/)
-FCFL is the first league to let the fans call the shots, like real-life Madden. Fans can watch all FCFL games live-streamed on Twitch. The FCFL is the first professional sports league built on top of the Twitch platform. 
-
-The partnership between WAX and FCFL pushes the envelope for what's possible with merchandise through the virtualization of each piece of FCFL merch. Buyers receive their FCFL merchandise virtually in the form of vIRL, the dApp that virtualizes physical items. They can also redeem the vIRL for the physical version whenever they want and have it shipped to their address.
-
-WAX and FCFL celebrated the addition of Mike Tyson to the league by giving away memorabilia autographed by the legendary boxer.
-
-
-<a id="markdown-games" name="games"></a>
-
-## Games
-
-
-<a id="markdown-z1br" name="z1br"></a>
-
-### [Z1BR](https://store.steampowered.com/app/433850/Z1_Battle_Royale/)
-Z1 Battle Royale (Z1BR) recently released limited-edition skins on WAX to commemorate the historic relaunch of H1Z1, the battle royale favorite that paved the way for titles like Fortnite and PUBG.
-
-
-
-<a id="markdown-the-godfather-game" name="the-godfather-game"></a>
-
-### [The Godfather Game](https://play.google.com/store/apps/details?id=com.dipan.feelingtouch.godfather&hl=en_US)
-The hit mobile game The Godfather Family Dynasty gave away tens of thousands of in-game currency on WAX. As with other in-game items, Godfather Gold can be traded on WAX ExpressTrade for anything that trades on the WAX Blockchain, instantly and for free. It can also be sold on OPSkins Marketplace or stored in the owner’s WAX Inventory.
-
-
-
-<a id="markdown-animoca-brands" name="animoca-brands"></a>
-
-### [Animoca Brands](https://www.animocabrands.com/)
-The WAX and Animoca Brands partnership drive market adoption of blockchain-based collectible digital items on a well-established platform for global digital commerce. As part of the partnership, Pixowl, a game studio recently acquired by Animoca Brands, allows NFTs created on its platform to be bought, traded, and sold on the WAX Marketplace. This provides additional visibility and liquidity for its creators.
-
-
-<a id="markdown-santeria" name="santeria"></a>
-
-### [Santeria](https://santeriagame.com/)
-Santeria is a fantasy "mini" MMO game where players can explore different locations ranging from castles to wizard towers, fighting arenas, and barns. This game integrates WAX ExpressTrade and allows players to enhance their gameplay experience by purchasing NFTs on OPSkins and using them in the game. Players are automatically equipped with a Magic Hat and Wand, and upgraded equipment in the form of NFTs includes Wizard Staffs and more. 
-
-
-
-<a id="markdown-waxwiki" name="waxwiki"></a>
-
-### [WAX.Wiki](https://www.wax.wiki/home/)
-WAX.Wiki a simple website design created using WAX Creator that lets anyone play games, watch videos, complete surveys, and more to earn collectible cards, stickers, and digital art. These collectibles get stored in their WAX ExpressTrade inventory.
-
-
-There are an additional 100+ sites using WAX ExpressTrade, WAX All Access, WAX Creator and other microservices. 
-
-
-# WAX Roadmap
-For the look ahead, we have some crucial developments planned not already mentioned above:
-
-
-<a id="markdown-wax-developer-hive" name="wax-developer-hive"></a>
-
-## WAX Developer Hive
-WAX Developer Hive will provide an overview of our technical services along with explanations, examples, tutorials. The WAX Developer Hive also offers other resources to ease implementation on the WAX Platform.
-
-
-<a id="markdown-office-of-the-inspector-general" name="office-of-the-inspector-general"></a>
-
-## Office of the Inspector General
-Office of the Inspector General will provide ongoing transparency for the community in voting by evaluating the contribution of guild candidates to the WAX community.
-
-
-<a id="markdown-ethereum-microservice" name="ethereum-microservice"></a>
-
-## Ethereum Microservice
-Interoperability with other chains for NFTs and other services requires microservices that can interact with the WAX Platform. That allows WAX to work with Ethereum-based NFTs. In the future, we plan to integrate with other popular chains.
-
-
-<a id="markdown-public-wax-testnet" name="public-wax-testnet"></a>
-
-## Public WAX Testnet
-WAX plans to enable a public WAX testnet so that dApps can build their applications safely before launching on the mainnet.
+En procentandel av WWPS medlen skulle allokeras till varje kategori samtidigt som de ser till att de är rätt fördelade. Däremot fonden skulle behov övervakning för att granska förslagen och för att undvika eventuella missbruk.
